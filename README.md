@@ -46,13 +46,13 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
     />
   </code> -->
-  <code
+  <!-- <code
     ><img
       alt="ícone do JavaScript"
       height="25"
       width="25"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-  /></code>
+  /></code> -->
   <code
     ><img
       alt="ícone do TypeScript"
@@ -62,24 +62,38 @@
   /></code>
   <code
     ><img
+      alt="ícone do java"
+      height="25"
+      width="25"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+  /></code>
+  <code
+    ><img
       alt="ícone do NodeJS"
       height="25"
       width="25"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
   /></code>
-  <code
+  <!-- <code
     ><img
       alt="ícone do MySql"
       height="25"
       width="25"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"
-  /></code>
+  /></code> -->
     <code
     ><img
       alt="ícone do ReactJS"
       height="25"
       width="25"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
+  /></code>
+   <code
+    ><img
+      alt="Spring Boot icon"
+      height="25"
+      width="25"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"
   /></code>
   <!-- <code
   ><img 
@@ -101,13 +115,6 @@
       height="25"
       width="25"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-  /></code>
-    <code
-    ><img
-      alt="ícone do java"
-      height="25"
-      width="25"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
   /></code>
 </div>
 
