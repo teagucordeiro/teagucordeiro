@@ -3,12 +3,12 @@
 <!-- ### Hey there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">! My social media: -->
 
 <p>
-  <a style="text-decoration: none" href="https://www.linkedin.com/in/thiagooliveiracordeiro">
+  <a style="text-decoration: none !important" href="https://www.linkedin.com/in/thiagooliveiracordeiro">
     <img
       src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
     /> </a
   >&nbsp;&nbsp;
-  <a style="text-decoration: none" href="mailto:thiagoty52@gmail.com">
+  <a style="text-decoration: none !important" href="mailto:thiagoty52@gmail.com">
     <img
       src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
     /> </a
