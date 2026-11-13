@@ -2,7 +2,10 @@
 
 <!-- ### Hey there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">! My social media: -->
 
-<p>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagooliveiracordeiro)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiagoty52@gmail.com)
+
+<!-- <p>
   <a style="text-decoration: none; border: none;" href="https://www.linkedin.com/in/thiagooliveiracordeiro">
     <img
       src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
@@ -13,7 +16,7 @@
       src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
     /> </a
   >&nbsp;&nbsp;
-</p>
+</p> -->
 
 ### About me
 
